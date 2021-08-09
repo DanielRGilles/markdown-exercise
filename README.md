@@ -14,7 +14,7 @@
 
 [bing](https://www.google.com)
 
-![NOtaDuck](C:\Users\14055\alchemy\Day1labB\src\assetsnotaduck.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 | aasd | dasda | dasddadadada | ad  |   |   |
 |------|-------|--------------|-----|---|---|
